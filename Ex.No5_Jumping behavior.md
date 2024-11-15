@@ -98,6 +98,7 @@ while True:
 
 ![image](https://github.com/user-attachments/assets/b956d8e6-43e5-4c01-b6ca-73eb9a3a9d49)
 
+![Screenshot 2024-11-15 114004](https://github.com/user-attachments/assets/ccfd3e22-fa2f-462f-849a-f928105dd1a0)
 
 ### Result:
 Thus the simple jumping behavior  was implemented.
