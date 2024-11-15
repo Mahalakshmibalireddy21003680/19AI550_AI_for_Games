@@ -1,8 +1,8 @@
 # Ex.No: 10  Implementation of Negamax Search
 ### DATE:                           
 ### Slot: 4H2-1
-### Name: G Venkata Pavan Kumar
-### REGISTER NUMBER : 212221240013
+### Name: Balireddy Mahalakshmi
+### REGISTER NUMBER : 212221240008
 ### AIM: 
 Write a Nega-max search algorithm to find the root value of Player from the  graph.
 ### Algorithm:
