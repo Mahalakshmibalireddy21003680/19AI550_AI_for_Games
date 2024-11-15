@@ -107,7 +107,7 @@ if __name__ == "__main__":  # Fixed __name__ and __main__
 ```
 ### Output:
 
-![image](https://github.com/user-attachments/assets/a38ad813-d052-43dc-b874-32b59fbfc7d8)
+![image](https://github.com/user-attachments/assets/43863a9d-35f1-4e80-89d1-3eb006588563)
 
 ### Result:
 Thus the simple seek and flee behavior was implemented successfully.
