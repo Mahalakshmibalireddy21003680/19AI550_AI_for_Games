@@ -1,8 +1,8 @@
 # Ex.No: 5  Implementation of Jumping behavior 
 ### DATE:                           
 ### Slot: 4H2-1
-### Name: G Venkata Pavan Kumar
-### REGISTER NUMBER : 212221240013
+### Name: Balireddy Mahalakshmi
+### REGISTER NUMBER : 212221240008
 
 ### AIM: 
 To write a python program to simulate Jumbing behavior. 
